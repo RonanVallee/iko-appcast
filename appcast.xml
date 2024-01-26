@@ -6,13 +6,13 @@
         <title>Version 1.1.0</title>
         <pubDate>Fri, 25 Jan 2024 15:20:11 +0000</pubDate>
         <enclosure url="https://play.google.com/store/apps/details?id=com.ecosoftware.iko" sparkle:version="1.1.0" sparkle:os="android" />
+        <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
     <item>
         <title>Version 1.1.1</title>
         <description>desc</description>
         <pubDate>Fri, 26 Jan 2024 15:20:11 +0000</pubDate>
         <enclosure url="https://play.google.com/store/apps/details?id=com.ecosoftware.iko" sparkle:version="1.1.1" sparkle:os="android" />
-        <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
   </channel>
 </rss>
