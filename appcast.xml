@@ -60,5 +60,19 @@
         <enclosure url="https://apps.apple.com/fr/app/iko-covoiturage-%C3%A9v%C3%A9nementiel/id6466641432" sparkle:version="1.2.1" sparkle:os="ios" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
+    <item>
+        <title>Version 1.2.2 Android</title>
+        <description>Dans cette nouvelle version, nous avons ajouté la possibilité d'utiliser l'application sans connexion. Nous avons également réglé quelques bugs mineurs.</description>
+        <pubDate>Tue, 5 Mar 2024 14:50:00 +0000</pubDate>
+        <enclosure url="https://play.google.com/store/apps/details?id=com.ecosoftware.iko" sparkle:version="1.2.2" sparkle:os="android" />
+        <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
+    </item>
+    <item>
+        <title>Version 1.2.2 iOS</title>
+        <description>Dans cette nouvelle version, nous avons ajouté la possibilité d'utiliser l'application sans connexion. Nous avons également réglé quelques bugs mineurs.</description>
+        <pubDate>Tue, 5 Mar 2024 14:50:00 +0000</pubDate>
+        <enclosure url="https://apps.apple.com/fr/app/iko-covoiturage-%C3%A9v%C3%A9nementiel/id6466641432" sparkle:version="1.2.2" sparkle:os="ios" />
+        <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
+    </item>
   </channel>
 </rss>
