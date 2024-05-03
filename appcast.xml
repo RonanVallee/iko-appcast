@@ -136,5 +136,17 @@
         <pubDate>Thu, 25 Apr 2024 10:30:00 +0000</pubDate>
         <enclosure url="https://apps.apple.com/fr/app/iko-covoiturage-%C3%A9v%C3%A9nementiel/id6466641432" sparkle:version="1.3.0" sparkle:os="ios" />
     </item>
+    <item>
+        <title>Version 1.3.1 Android</title>
+        <description>Dans cette version nous ajoutons la possibilité de parcourir l'application sans création de compte ! Vous pourrez notamment ouvrir la carte des mobilités des différents événements de l'application sans être connecté.</description>
+        <pubDate>Fri, 03 May 2024 14:45:00 +0000</pubDate>
+        <enclosure url="https://play.google.com/store/apps/details?id=com.ecosoftware.iko" sparkle:version="1.3.1" sparkle:os="android" />
+    </item>
+    <item>
+        <title>Version 1.3.1 iOS</title>
+        <description>Dans cette version nous ajoutons la possibilité de parcourir l'application sans création de compte ! Vous pourrez notamment ouvrir la carte des mobilités des différents événements de l'application sans être connecté.</description>
+        <pubDate>Fri, 03 May 2024 14:45:00 +0000</pubDate>
+        <enclosure url="https://apps.apple.com/fr/app/iko-covoiturage-%C3%A9v%C3%A9nementiel/id6466641432" sparkle:version="1.3.1" sparkle:os="ios" />
+    </item>
   </channel>
 </rss>
