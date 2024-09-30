@@ -204,14 +204,14 @@
     </item>
     <item>
         <title>Version 1.4.1 Android</title>
-        <description>Dans cette nouvelle version, nous avons amélioré la navigation au sein de l'application, ce qui nous permet d'obtenir des liens de redirection à partager, vers chaque événement. Nous avons également amélioré les performances de l'application et résolu quelques bugs mineurs.</description>
+        <description>Dans cette version, nous avons amélioré les performances et corrigé quelques bugs mineurs.</description>
         <pubDate>Mon, 30 Sept 2024 12:00:00 +0000</pubDate>
         <enclosure url="https://play.google.com/store/apps/details?id=com.ecosoftware.iko" sparkle:version="1.4.1" sparkle:os="android" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
     <item>
         <title>Version 1.4.1 iOS</title>
-        <description>Dans cette nouvelle version, nous avons amélioré la navigation au sein de l'application, ce qui nous permet d'obtenir des liens de redirection à partager, vers chaque événement. Nous avons également amélioré les performances de l'application et résolu quelques bugs mineurs.</description>
+        <description>Dans cette version, nous avons amélioré les performances et corrigé quelques bugs mineurs.</description>
         <pubDate>Mon, 30 Sept 2024 12:00:00 +0000</pubDate>
         <enclosure url="https://apps.apple.com/fr/app/iko-covoiturage-%C3%A9v%C3%A9nementiel/id6466641432" sparkle:version="1.4.1" sparkle:os="ios" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
