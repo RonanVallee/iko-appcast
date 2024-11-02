@@ -232,14 +232,14 @@
     </item>
     <item>
         <title>Version 1.4.3 Android</title>
-        <description>Dans cette nouvelle version, nous avons ajouté la fonctionnalité d'étapes ! Vous pouvez à présent ajouter des étapes à votre trajet, ce qui vous permettra de trouver plus facilement des passagers avec qui voyager. 🚗 Nous en profitons également pour améliorer le visuel de l'application et régler certains bugs mineurs.</description>
+        <description>Dans cette nouvelle version, nous avons ajouté la fonctionnalité d'étapes ! Vous pouvez à présent ajouter des étapes à votre trajet, ce qui vous permettra de trouver plus facilement des passagers avec qui voyager. Nous en profitons également pour améliorer le visuel de l'application et régler certains bugs mineurs.</description>
         <pubDate>Sat, 02 Nov 2024 10:30:00 +0000</pubDate>
         <enclosure url="https://play.google.com/store/apps/details?id=com.ecosoftware.iko" sparkle:version="1.4.3" sparkle:os="android" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
     <item>
         <title>Version 1.4.3 iOS</title>
-        <description>Dans cette nouvelle version, nous avons ajouté la fonctionnalité d'étapes ! Vous pouvez à présent ajouter des étapes à votre trajet, ce qui vous permettra de trouver plus facilement des passagers avec qui voyager. 🚗 Nous en profitons également pour améliorer le visuel de l'application et régler certains bugs mineurs.</description>
+        <description>Dans cette nouvelle version, nous avons ajouté la fonctionnalité d'étapes ! Vous pouvez à présent ajouter des étapes à votre trajet, ce qui vous permettra de trouver plus facilement des passagers avec qui voyager. Nous en profitons également pour améliorer le visuel de l'application et régler certains bugs mineurs.</description>
         <pubDate>Sat, 02 Nov 2024 10:30:00 +0000</pubDate>
         <enclosure url="https://apps.apple.com/fr/app/iko-covoiturage-%C3%A9v%C3%A9nementiel/id6466641432" sparkle:version="1.4.3" sparkle:os="ios" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
