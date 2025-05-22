@@ -271,66 +271,78 @@
     <item>
         <title>Version 1.4.6 Android</title>
         <description>Dans cette version, nous avons ajouté la possibilité aux événements de passer en vedette, tout en haut de la page d'accueil.</description>
-        <pubDate>Wed, 19 Feb 2024 10:30:00 +0000</pubDate>
+        <pubDate>Wed, 19 Feb 2025 10:30:00 +0000</pubDate>
         <enclosure url="https://play.google.com/store/apps/details?id=com.ecosoftware.iko" sparkle:version="1.4.6" sparkle:os="android" />
     </item>
     <item>
         <title>Version 1.4.6 iOS</title>
         <description>Dans cette version, nous avons ajouté la possibilité aux événements de passer en vedette, tout en haut de la page d'accueil.</description>
-        <pubDate>Wed, 19 Feb 2024 10:30:00 +0000</pubDate>
+        <pubDate>Wed, 19 Feb 2025 10:30:00 +0000</pubDate>
         <enclosure url="https://apps.apple.com/fr/app/iko-covoiturage-%C3%A9v%C3%A9nementiel/id6466641432" sparkle:version="1.4.6" sparkle:os="ios" />
     </item>
     <item>
         <title>Version 1.4.7 Android</title>
         <description>Dans cette nouvelle version, nous avons optimisé les performances de l'application.</description>
-        <pubDate>Fri, 21 Feb 2024 18:30:00 +0000</pubDate>
+        <pubDate>Fri, 21 Feb 2025 18:30:00 +0000</pubDate>
         <enclosure url="https://play.google.com/store/apps/details?id=com.ecosoftware.iko" sparkle:version="1.4.7" sparkle:os="android" />
     </item>
     <item>
         <title>Version 1.4.7 iOS</title>
         <description>Dans cette nouvelle version, nous avons optimisé les performances de l'application.</description>
-        <pubDate>Fri, 21 Feb 2024 18:30:00 +0000</pubDate>
+        <pubDate>Fri, 21 Feb 2025 18:30:00 +0000</pubDate>
         <enclosure url="https://apps.apple.com/fr/app/iko-covoiturage-%C3%A9v%C3%A9nementiel/id6466641432" sparkle:version="1.4.7" sparkle:os="ios" />
     </item>
     <item>
         <title>Version 1.4.8 Android</title>
         <description>Vous pouvez maintenant rejoindre un covoiturage en le sélectionnant directement depuis la carte de l'événement.</description>
-        <pubDate>Fri, 28 Feb 2024 18:00:00 +0000</pubDate>
+        <pubDate>Fri, 28 Feb 2025 18:00:00 +0000</pubDate>
         <enclosure url="https://play.google.com/store/apps/details?id=com.ecosoftware.iko" sparkle:version="1.4.8" sparkle:os="android" />
     </item>
     <item>
         <title>Version 1.4.8 iOS</title>
         <description>Vous pouvez maintenant rejoindre un covoiturage en le sélectionnant directement depuis la carte de l'événement.</description>
-        <pubDate>Fri, 28 Feb 2024 18:00:00 +0000</pubDate>
+        <pubDate>Fri, 28 Feb 2025 18:00:00 +0000</pubDate>
         <enclosure url="https://apps.apple.com/fr/app/iko-covoiturage-%C3%A9v%C3%A9nementiel/id6466641432" sparkle:version="1.4.8" sparkle:os="ios" />
     </item>
     <item>
         <title>Version 1.4.10 Android</title>
         <description>Nous continuons de mettre à jour l'application pour la rendre plus performante et simple d'utilisation.</description>
-        <pubDate>Thu, 10 Mar 2024 10:00:00 +0000</pubDate>
+        <pubDate>Thu, 10 Mar 2025 10:00:00 +0000</pubDate>
         <enclosure url="https://play.google.com/store/apps/details?id=com.ecosoftware.iko" sparkle:version="1.4.9" sparkle:os="android" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
     <item>
         <title>Version 1.4.9 iOS</title>
         <description>Nous continuons de mettre à jour l'application pour la rendre plus performante et simple d'utilisation.</description>
-        <pubDate>Thu, 10 Mar 2024 10:00:00 +0000</pubDate>
+        <pubDate>Thu, 10 Mar 2025 10:00:00 +0000</pubDate>
         <enclosure url="https://apps.apple.com/fr/app/iko-covoiturage-%C3%A9v%C3%A9nementiel/id6466641432" sparkle:version="1.4.9" sparkle:os="ios" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
     <item>
         <title>Version 1.4.10 Android</title>
         <description>Nous continuons de mettre à jour l'application pour la rendre plus performante et simple d'utilisation.</description>
-        <pubDate>Tue, 22 Apr 2024 11:00:00 +0000</pubDate>
+        <pubDate>Tue, 22 Apr 2025 11:00:00 +0000</pubDate>
         <enclosure url="https://play.google.com/store/apps/details?id=com.ecosoftware.iko" sparkle:version="1.4.10" sparkle:os="android" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
     <item>
         <title>Version 1.4.10 iOS</title>
         <description>Nous continuons de mettre à jour l'application pour la rendre plus performante et simple d'utilisation.</description>
-        <pubDate>Tue, 22 Apr 2024 11:00:00 +0000</pubDate>
+        <pubDate>Tue, 22 Apr 2025 11:00:00 +0000</pubDate>
         <enclosure url="https://apps.apple.com/fr/app/iko-covoiturage-%C3%A9v%C3%A9nementiel/id6466641432" sparkle:version="1.4.10" sparkle:os="ios" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
+    </item>
+    <item>
+        <title>Version 1.4.11 Android</title>
+        <description>Nous continuons de mettre à jour l'application pour la rendre plus performante et simple d'utilisation.</description>
+        <pubDate>Thu, 21 May 2025 09:30:00 +0000</pubDate>
+        <enclosure url="https://play.google.com/store/apps/details?id=com.ecosoftware.iko" sparkle:version="1.4.11" sparkle:os="android" />
+    </item>
+    <item>
+        <title>Version 1.4.11 iOS</title>
+        <description>Nous continuons de mettre à jour l'application pour la rendre plus performante et simple d'utilisation.</description>
+        <pubDate>Thu, 21 May 2025 09:30:00 +0000</pubDate>
+        <enclosure url="https://apps.apple.com/fr/app/iko-covoiturage-%C3%A9v%C3%A9nementiel/id6466641432" sparkle:version="1.4.11" sparkle:os="ios" />
     </item>
   </channel>
 </rss>
