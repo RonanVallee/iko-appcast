@@ -392,5 +392,17 @@
         <pubDate>Fri, 14 Nov 2025 12:30:00 +0000</pubDate>
         <enclosure url="https://apps.apple.com/fr/app/iko-covoiturage-%C3%A9v%C3%A9nementiel/id6466641432" sparkle:version="1.4.16" sparkle:os="ios" />
     </item>
+    <item>
+        <title>Version 1.5.0 Android</title>
+        <description>Nous continuons de mettre à jour l'application pour la rendre plus performante et simple d'utilisation.</description>
+        <pubDate>Tue, 24 Mar 2026 19:45:00 +0000</pubDate>
+        <enclosure url="https://play.google.com/store/apps/details?id=com.ecosoftware.iko" sparkle:version="1.5.0" sparkle:os="android" />
+    </item>
+    <item>
+        <title>Version 1.5.0 iOS</title>
+        <description>Nous continuons de mettre à jour l'application pour la rendre plus performante et simple d'utilisation.</description>
+        <pubDate>Tue, 24 Mar 2026 19:45:00 +0000</pubDate>
+        <enclosure url="https://apps.apple.com/fr/app/iko-covoiturage-%C3%A9v%C3%A9nementiel/id6466641432" sparkle:version="1.5.0" sparkle:os="ios" />
+    </item>
   </channel>
 </rss>
